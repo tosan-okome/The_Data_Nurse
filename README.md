@@ -5,7 +5,7 @@ Welcome to The Data Nurse!
 Hi there! I’m a nurse with a love for data, here to share my journey from bedside care to data science. 
 After countless hours at the bedside, I found myself wanting to explore further. My curiosity and drive to understand the “why” behind every process revealed a new path—one that combined my love for healthcare with my desire for deeper insights and solutions.
 
-In bedside nursing, I often felt constrained by “hospital policy” or “doctor’s orders,” even when I saw opportunities for better outcomes. I realized that having a real voice in healthcare meant going beyond direct patient care—it meant shaping policies and driving change through data and research. Politics isn’t my path, but working with data is
+I'm currently working as a nurse and leading the CHAOSS Africa Researchers team, a focus group under CHAOSS Africa dedicated to researching open-source issues in Africa. I’m also continually building my technical skills in R and statistics, as you'll see in my projects section, and I’m expanding into SQL and Python. Before discovering the world of open-source software, I primarily used Excel, SPSS, and Power BI for my analyses.
 
 When I'm not diving into data or healthcare, you'll probably find me reading Spy×Family for the nth time, digging into theology, or writing (hopefully not terrible) poems. 
 
